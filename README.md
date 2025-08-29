@@ -31,3 +31,7 @@ I'm a recent graduate of University College London with a Master's in Software S
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+
+### Places I've Been
+<img src="https://beeneverywhere.net/staticmap/s0l0traveler.png">
