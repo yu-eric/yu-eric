@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Eric Yu
+# Hi there 👋, I'm Eric
 
 <a href="https://www.eric-yu.com"><img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Website Badge"/></a>
 <a href="https://www.linkedin.com/in/yu-eric"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
